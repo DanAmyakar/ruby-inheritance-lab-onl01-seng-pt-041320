@@ -1,4 +1,4 @@
-require_relatice './user.rb'
+require_relative './user.rb'
 
 class Student
   
