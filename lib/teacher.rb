@@ -6,7 +6,7 @@ class Teacher < User
 
   def teach
     binding.pry
-    KNOWLEDGE.each{|el| el}
+    self.KNOWLEDGE
   end
   
 end
