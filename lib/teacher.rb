@@ -10,4 +10,6 @@ class Teacher < User
     x += 1
   end
   
+  binding.pry
+  
 end
