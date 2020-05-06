@@ -1,5 +1,5 @@
-require_relatice "./user.rb"
+require_relatice './user.rb'
 
-class Student 
-
+class Student
+  
 end
